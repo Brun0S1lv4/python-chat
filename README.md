@@ -1,2 +1,2 @@
 # python-chat
-chat with python and web sockets
+Terminal chat application with python and web sockets
